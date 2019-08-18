@@ -7,6 +7,6 @@ Expands to 2 rows of .05" headers or further castellated solder points.
 One advantage of this is that if the breakout board top is soldered directly
 to the bottom of the host board, the Teensy can be flush with the main board via a cutout.
 
-(INSERT PICTURES HERE)
+![breakout render](teensy4_breakout_render.png)
 
 Note: Work In Progress, first boards on order now.
