@@ -1,6 +1,6 @@
 A breakout board for the PJRC.com Teensy 4.0 board that is soldered directly to the bottom of the Teensy board via castellated solder points.
 
-Note:  I've decided to not use this.  Check out [this newer version](../teensy_header_breakout/) which uses more common 0.1" headers.
+Note:  I've decided to not use this.  Check out [this newer version](https://github.com/blackketter/teensy4_header_breakout) which uses more common 0.1" headers.
 
 Designed in KiCad.
 
